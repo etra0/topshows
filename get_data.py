@@ -29,8 +29,8 @@ def get_chapters_rates(show):
     chapters = [(unescape(episode), unescape(title), unescape(score)) for episode, title, score in chapters]
     return chapters
 
-def generate_dataset(list_shows):
-    with open("data.csv", "w") as dataset:
+def generate_dataset(list_shows, name):
+    with open(name, "w") as dataset:
         dataset.write("show;chapter;name_chapter;score\n")
         for show in list_shows:
             for chapter, name_chapter, score in get_chapters_rates(show):
@@ -45,5 +45,5 @@ def generate_dataset(list_shows):
                 dataset.write("{show};{chapter};{name_chapter};{score}\n".format(**metadata))
 
 if __name__ == "__main__":
-    top_10 = get_top_shows(10)
-    generate_dataset(top_10)
+    all_series = get_top_shows(7)
+    generate_dataset(all_series, "data3.csv")
