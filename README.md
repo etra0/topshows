@@ -9,7 +9,7 @@ Here are the results:
 
 ![GOT](https://github.com/etrastyle/topshows/blob/master/out/Game%20of%20Thrones.png)
 
-![RAM](https://github.com/etrastyle/topshows/blob/master/out/Rick%20And%20Morty.png)
+![RAM](https://github.com/etrastyle/topshows/blob/master/out/Rick%20and%20Morty.png)
 
 ![BB](https://github.com/etrastyle/topshows/blob/master/out/Breaking%20Bad.png)
 
