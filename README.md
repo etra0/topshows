@@ -9,10 +9,10 @@ Here are the results:
 
 ![GOT](https://github.com/etrastyle/topshows/blob/master/out/Game%20of%20Thrones.png)
 
-![BOB](https://github.com/etrastyle/topshows/blob/master/out/Band%20of%20Brothers.png)
+![RAM](https://github.com/etrastyle/topshows/blob/master/out/Rick%20And%20Morty.png)
 
 ![BB](https://github.com/etrastyle/topshows/blob/master/out/Breaking%20Bad.png)
 
-![PE2](https://github.com/etrastyle/topshows/blob/master/out/Planet%20Earth%20II.png)
+![SOP](https://github.com/etrastyle/topshows/blob/master/out/The%20Sopranos.png)
 
-![PE](https://github.com/etrastyle/topshows/blob/master/out/Planet%20Earth.png)
+![WIRE](https://github.com/etrastyle/topshows/blob/master/out/The%20Wire.png)
